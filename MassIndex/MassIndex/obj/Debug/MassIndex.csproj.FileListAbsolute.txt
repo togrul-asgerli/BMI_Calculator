@@ -1,0 +1,11 @@
+C:\Users\Togrul\source\repos\MassIndex\MassIndex\bin\Debug\MassIndex.exe.config
+C:\Users\Togrul\source\repos\MassIndex\MassIndex\bin\Debug\MassIndex.exe
+C:\Users\Togrul\source\repos\MassIndex\MassIndex\bin\Debug\MassIndex.pdb
+C:\Users\Togrul\source\repos\MassIndex\MassIndex\obj\Debug\MassIndex.csproj.AssemblyReference.cache
+C:\Users\Togrul\source\repos\MassIndex\MassIndex\obj\Debug\MassIndex.csproj.SuggestedBindingRedirects.cache
+C:\Users\Togrul\source\repos\MassIndex\MassIndex\obj\Debug\MassIndex.Form1.resources
+C:\Users\Togrul\source\repos\MassIndex\MassIndex\obj\Debug\MassIndex.Properties.Resources.resources
+C:\Users\Togrul\source\repos\MassIndex\MassIndex\obj\Debug\MassIndex.csproj.GenerateResource.cache
+C:\Users\Togrul\source\repos\MassIndex\MassIndex\obj\Debug\MassIndex.csproj.CoreCompileInputs.cache
+C:\Users\Togrul\source\repos\MassIndex\MassIndex\obj\Debug\MassIndex.exe
+C:\Users\Togrul\source\repos\MassIndex\MassIndex\obj\Debug\MassIndex.pdb
